@@ -1,0 +1,37 @@
+header {
+  background-image: url(../img/dana-devolk-x2cNcfz_xXU-unsplash.jpg);
+  background-size: cover;
+  background-position: top;
+  height: 7rem;
+  padding: 2rem;
+}
+header h1 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 3rem;
+  font-weight: bolder;
+  margin-bottom: 0%;
+  text-decoration: underline;
+}
+header p {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1rem;
+  margin-top: 0%;
+  margin-bottom: 0%;
+}
+img {
+  height: 200px;
+  width: 200px;
+}
+section {
+  display: flex;
+  justify-content: center;
+  margin: 10%;
+}
+.texto {
+  margin-top: 5%;
+}
+footer {
+  background-color: indianred;
+  font-weight: 800;
+  text-align: center;
+}
